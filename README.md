@@ -4,7 +4,8 @@ ___
 
 ### fullstack web dev
   - PHP (Laravel, Lumen)
-  - JavaScript (Vue.js, Alpine.js)
+  - JavaScript frontend (Vue.js, Alpine.js)
+  - JavaScript backend (Node.js (Express.js))
   - HTML
   - CSS
 
