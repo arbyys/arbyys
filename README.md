@@ -5,10 +5,10 @@ ___
 ### fullstack web dev
   - PHP (Laravel, Lumen)
   - JavaScript frontend (Vue.js, Alpine.js)
-  - JavaScript backend (Node.js (Express.js))
-  - HTML
-  - CSS
-
+  - JavaScript backend (Node.js [Express.js])
+  - Python
+  - Docker
+  - SQL, MongoDB
 ___
 
 **[Osobní web](https://arbystools.eu/)**
