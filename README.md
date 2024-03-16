@@ -3,12 +3,10 @@
 ___
 
 ### fullstack web dev
-  - PHP (Laravel, Lumen)
-  - HTMX
+  - PHP (Laravel)
   - JavaScript frontend (Vue.js, Alpine.js)
   - JavaScript backend (Node.js [Express.js])
-  - Python
-    - Flask backend API
+  - Python (Flask)
   - Docker
   - SQL, MongoDB
 ___
