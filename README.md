@@ -4,7 +4,7 @@ ___
 
 ### Full-stack web developer
 ##### Backend
-  - PHP (Laravel)
+  - PHP (Symfony, Laravel)
   - Docker
   - SQL, MongoDB
   - Python
